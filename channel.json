@@ -4,8 +4,6 @@
 		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json"
 	],
 	"packages_cache": {
-
-		// The first level keys are the repository URLs
 		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
 			{
 				"name": "nate tool box",
@@ -23,5 +21,7 @@
 		]
 	},
 	"dependencies_cache": {
+		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
+		]
 	}
 }
