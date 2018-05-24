@@ -5,14 +5,12 @@
 			"name": "Nate Tool Box",
 			"details": "https://github.com/Nriver/sublime_nate_tool_box",
 			"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
-			"labels": ["toolbox", "formatting"],
+			"labels": ["formatting"],
 			"author": "Nate/Zengjq",
 			"releases": [
 				{
-					"sublime_text": ">=3000",
-					"platforms": ["windows","osx", "linux"],
-					"tags": true,
-					"dependencies": []
+					"sublime_text": "*",
+					"tags": true
 				}
 			]
 		}
