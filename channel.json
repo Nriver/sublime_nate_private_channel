@@ -7,7 +7,7 @@
 		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
 			{
 				"name": "nate tool box",
-				"description": "A full-featured package manager",
+				"description": "Nate's tool box",
 				"author": "Nate/Zengjq",
 				"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
 				"releases": [
