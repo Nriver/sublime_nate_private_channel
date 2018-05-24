@@ -11,11 +11,9 @@
 				{
 					"sublime_text": ">=3000",
 					"tags": true,
-					"dependencies": [],
+					"dependencies": []
 				}
 			]
-		},
-	],
-	"includes": [
+		}
 	]
 }
