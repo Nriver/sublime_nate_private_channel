@@ -1,19 +1,19 @@
 {
-	"schema_version": "3.0.0",
+	"schema_version": "1.2",
 	"packages": [
 		{
 			"name": "Nate Tool Box",
-			"details": "https://github.com/Nriver/sublime_nate_tool_box",
-			"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
-			"labels": ["formatting"],
+			"description": "Nate Tool Box",
 			"author": "Nate/Zengjq",
-			"releases": [
-				{
-					"platforms": ["windows","osx", "linux"],
-					"sublime_text": "*",
-					"tags": true
-				}
-			]
+			"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.0.1",
+						"url": "https://github.com/Nriver/sublime_nate_tool_box"
+					}
+				]
+			}
 		}
 	]
 }
