@@ -9,6 +9,7 @@
 			"author": "Nate/Zengjq",
 			"releases": [
 				{
+					"platforms": ["windows","osx", "linux"],
 					"sublime_text": "*",
 					"tags": true
 				}
