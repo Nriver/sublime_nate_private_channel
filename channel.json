@@ -14,8 +14,8 @@
 					{
 						"date": "2018-5-24 15:25",
 						"sublime_text": ">=3000",
-						"version": "0.0.2",
-						"url": "https://codeload.github.com/Nriver/sublime_nate_tool_box/zip/0.0.2",
+						"version": "0.0.3",
+						"url": "https://codeload.github.com/Nriver/sublime_nate_tool_box/zip/0.0.3",
 						"platforms": ["*"]
 					}
 				]
