@@ -6,35 +6,20 @@
 	"packages_cache": {
 		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
 			{
-				"name": "nate tool box (packaged)",
-				"description": "Nate's tool box",
+				"name": "Nate Tool Box",
+				"description": "Nate's Tool Box",
 				"author": "Nate/Zengjq",
 				"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
 				"releases": [
 					{
-						"date": "2018-5-24 12:47:00",
+						"date": "2018-5-24 15:25",
 						"sublime_text": ">=3000",
-						"version": "0.0.1",
-						"url": "https://github.com/Nriver/sublime_nate_private_channel/raw/master/sublime_nate_tool_box.sublime-package",
+						"version": "0.0.2",
+						"url": "https://codeload.github.com/Nriver/sublime_nate_tool_box/zip/0.0.2",
 						"platforms": ["*"]
 					}
 				]
-			},
-            {
-                "name": "nate tool box (not packaged)",
-                "description": "Nate's tool box",
-                "author": "Nate/Zengjq",
-                "homepage": "https://github.com/Nriver/sublime_nate_tool_box",
-                "releases": [
-                    {
-                        "date": "2018-5-24 12:47:00",
-                        "sublime_text": ">=3000",
-                        "version": "0.0.1",
-                        "url": "https://codeload.github.com/Nriver/sublime_nate_tool_box/zip/0.0.1",
-                        "platforms": ["*"]
-                    }
-                ]
-            }
+			}
 		]
 	},
 	"dependencies_cache": {
