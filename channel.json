@@ -12,9 +12,8 @@
 				"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
 				"releases": [
 					{
-						"version": "2.0.0",
-						"url": "https://packagecontrol.io/Alignment.sublime-package",
-						"date": "2011-09-18 20:12:41"
+						"version": "0.0.1",
+						"url": "https://github.com/Nriver/sublime_nate_private_channel/raw/master/sublime_nate_tool_box.sublime-package"
 					}
 				]
 			}
