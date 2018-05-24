@@ -1,20 +1,29 @@
 {
-	"schema_version": "1.2",
-	"packages": [
-		{
-			"name": "nate tool box",
-			"description": "A full-featured package manager",
-			"description": "tool box plugin",
-			"author": "Nate/Zengjq",
-			"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
-			"platforms": {
-				"*": [
+	"schema_version": "3.0.0",
+	"repositories": [
+		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json"
+	],
+	"packages_cache": {
+
+		// The first level keys are the repository URLs
+		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
+			{
+				"name": "nate tool box",
+				"description": "A full-featured package manager",
+				"author": "Nate/Zengjq",
+				"homepage": "https://github.com/Nriver/sublime_nate_tool_box",
+				"releases": [
 					{
 						"version": "0.0.1",
-						"url": "https://github.com/Nriver/sublime_nate_private_channel/raw/master/sublime_nate_tool_box.sublime-package"
+						"url": "https://github.com/Nriver/sublime_nate_private_channel/raw/master/sublime_nate_tool_box.sublime-package",
+						"date": "2018-5-24 12:20"
 					}
 				]
 			}
-		}
-	]
+		]
+	},
+	"dependencies_cache": {
+		"https://raw.githubusercontent.com/Nriver/sublime_nate_private_channel/master/repository.json": [
+		]
+	}
 }
