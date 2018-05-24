@@ -6,8 +6,8 @@
             "details": "https://github.com/Nriver/sublime_nate_tool_box",
             "releases": [
                 {
-                    "platforms": ["windows"],
                     "sublime_text": "*",
+                    "platforms": "windows",
                     "tags": true
                 }
             ]
